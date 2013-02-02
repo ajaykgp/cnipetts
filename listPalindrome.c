@@ -12,7 +12,8 @@ algo: First, the first node of the second half of the list is found. Then
       we reach the end of the second half(NULL) or when the equality 
       condition fails(data of a node from the first half should be equal to
       the data of the corresponding node from the second half of the list).
-      The second half is then reversed back.
+
+	  The second half is then reversed back.
  *
  */
 
