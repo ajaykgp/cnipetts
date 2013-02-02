@@ -18,8 +18,6 @@
  *  @author: ajay
  *
  *  @time: Monday, 31st December 2012, 1:48 PM
- *
- *
  */
 
 #include <stdio.h>
